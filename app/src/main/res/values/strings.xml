@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi Kedai Kopi</string>
+    <array name="data">
+        <item>Kopi Panas</item>
+        <item>Kopi Dingin</item>
+    </array>
+
+</resources>
